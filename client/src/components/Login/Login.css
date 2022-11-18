@@ -1,0 +1,15 @@
+.login-page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container {
+    background-color: azure;
+    width: 500px !important;
+    height: 200px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-evenly; */
+}
